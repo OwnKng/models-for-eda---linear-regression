@@ -10,6 +10,7 @@ output:
 
 ```{r setup, include=FALSE}
 options(scipen = 9999)
+
 ```
 
 This analysis applies linear regression to data on house prices in England and Wales. It is intended to demonstrate that fitting simple models to a dataset can be a highly effective way of quickly identifying trends and generating ideas for further analysis. 
