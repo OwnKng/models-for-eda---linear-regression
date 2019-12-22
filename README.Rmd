@@ -3,8 +3,9 @@ title: "Models for Exploratory Data Analysis - Linear Regression"
 date: "Nov-2019"
 output: 
   rmarkdown::github_document:
-  fig_width: 9
-  fig_height: 5
+    fig_width: 9
+    fig_height: 5
+    dev: png
 ---
 
 ```{r setup, include=FALSE}
